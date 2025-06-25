@@ -23,6 +23,6 @@ Identifying the geographical origin of the attack facilitates the implementation
 💡 Note: The lab machines do not have internet access. To look up the IP address and complete this step, use an IP geolocation service on your local computer outside the lab environment.
 
 
-![](/assets/images/posts/web1.jpg)
+(/assets/images/posts/web1.jpg)
 
 
